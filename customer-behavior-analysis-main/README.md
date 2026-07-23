@@ -1,4 +1,4 @@
-# Customer Behavior Analysis
+# Customer & Sales Report
 
 ## Project Overview
 

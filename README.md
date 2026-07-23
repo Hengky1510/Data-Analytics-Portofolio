@@ -6,8 +6,8 @@ This repository contains my data analytics projects using SQL, Excel, Power BI, 
 
 ### SQL
 
-- Ecommerce Sales Analysis
-- Customer Behavior Analysis
+- Customer Sales Report
+- E-commerce Sales Report
 
 ### Excel
 
